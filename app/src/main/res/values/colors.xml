@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#4A628A</color>
+    <color name="gray_light">#E7E2E2</color>
+    <color name="cardview_background">#7AB2D3</color>
+    <color name="input_background">#E1A0A0</color>
+    <color name="button_bg">#7AB2D3</color>
+    <color name="cv_background">#4A628A</color>
+    <color name="red">#F86B6B</color>
+</resources>
